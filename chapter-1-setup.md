@@ -44,4 +44,4 @@ token = environ.get("TOKEN") # Note that this will return None if it cannot find
 <br>
 That's it for keeping your token safe! Of course there are other methods, but I'll keep it to this method as it is the one I use for my bot.
 
-**Next: [Chapter 2 | Let's get online!](./chapter-2-online)**
+**Next: [Chapter 2 | Let's get online!](https://github.com/dank-tagg/dpy-tutorial/blob/main/chapter-2-what-is-discord.md)**
