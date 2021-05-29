@@ -18,5 +18,5 @@ There are a few terms you should understand before starting <br>
 
 We will refer to these terms many times later. Be sure to remember those and differentiate between!
 
-**NEXT: [Chapter 3 | Hello World](https://github.com/dank-tagg/dpy-tutorial/blob/main/chapter-3-online.md)
+**NEXT: [Chapter 3 | Hello World](https://github.com/dank-tagg/dpy-tutorial/blob/main/chapter-3-online.md)**
 
