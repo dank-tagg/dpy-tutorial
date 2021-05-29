@@ -27,6 +27,6 @@ Don't know how to install discord.py? See [here](https://pypi.org/project/discor
 
 
 ### Read through this? Let's get started!
-[Start](https://github.com/dank-tagg/dpy-tutorial/chapter-1-setup.md) the tutorial!
+[Start](https://github.com/dank-tagg/dpy-tutorial/blob/main/chapter-1-setup.md) the tutorial!
 
 
