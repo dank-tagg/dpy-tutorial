@@ -6,7 +6,7 @@ Run this in Python Interpreter:
 
 ```py
 >>> import discord
->>> print(discord.__version__)
+>>> discord.__version__
 1.7.2
 ```
 
