@@ -6,8 +6,8 @@ and how to create a discord bot with the library itself.
 
 
 ### Prerequisites
-- Python 3.9.4 (or any 3+, won't make much difference)
-- discord.py 1.7.2
+- Python 3.5 
+- discord.py 1.7.2 and below 2.0
 
 Don't know how to install discord.py? See [here](https://pypi.org/project/discord.py/)
 
