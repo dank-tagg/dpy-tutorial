@@ -41,7 +41,7 @@ After you've done this, we need to actually run our bot.
 from discord.ext import commands
 bot = commands.Bot(command_prefix='?')
 ```
-Let's add a simple command using the `bot.commands` decorator
+Let's add a simple command using the `bot.command` decorator
 ```python
 @bot.command(name="hello")
 async def hello_world(ctx: commands.Context):
