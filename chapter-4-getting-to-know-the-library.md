@@ -15,7 +15,7 @@ async def hello_world(ctx: commands.Context):
 bot.run("token")
 ```
 
-Here we made a simple bot command, explained in detail [here](./chapter-3-online)
+Here we made a simple bot command, explained in detail [here](./chapter-3-online.md)
 
 ### A simple ping command
 In this part, I will teach you how to make a ping command to show the bot's latency. <br>
